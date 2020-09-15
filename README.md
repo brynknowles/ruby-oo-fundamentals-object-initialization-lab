@@ -17,11 +17,11 @@ breed is provided, it should default to `"Mutt"`
 
 Open this lab by clicking the "Fork" button, cloning, and running the tests with `learn test`.
 
-#### 1. `Person#initialize` with a Name
+<!-- #### 1. `Person#initialize` with a Name
 
 Define a `Person` class in `lib/person.rb` that provides an `#initialize` method
 that accepts an argument for the person's name. That argument should be stored
-within a `@name` instance variable.
+within a `@name` instance variable. -->
 
 #### 2. `Dog#initialize` with Name and Breed defaulting to "Mutt"
 
